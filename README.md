@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nandakumar16
-- 👀 I’m interested in breaking limits of physic
+- 👀 I’m interested in breaking limits of physics
 - 🌱 I’m currently learning : Deep learning 
 - 💞️ I’m looking to collaborate on: ecofriendly AI models 
 - 📫 How to reach me :currently not needed
